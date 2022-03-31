@@ -43,7 +43,7 @@ Installez les dépendances et lancez le serveur avec le nouveau plugin !
 
 Le Plugin est disponible sur les lien suivants au téléchargement direct:
 
-| Hôte | LIEN |
+| Hôte | Lien |
 | ------ | ------ |
 | 1Fichier | https://1fichier.com/?86tx3o46hl0esys3mjj6 |
 | MediaFire | https://www.mediafire.com/file/48ef3glcuqmpfwh/PiocheFourneau.rar/file |
