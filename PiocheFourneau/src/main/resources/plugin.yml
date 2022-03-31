@@ -1,0 +1,9 @@
+name: PiocheFourneau
+version: ${project.version}
+main: fr.benjis.PiocheFourneauPlugin
+api-version: 1.16
+authors: [ BenjiPy ]
+description: Plugin pour la pioche fourneau
+
+commands:
+  piochefourneau:
