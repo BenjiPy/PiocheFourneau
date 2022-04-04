@@ -1,6 +1,6 @@
 # BenjiPy™️
 
-![Logo](https://imgur.com/BRlK2Dy.png)
+![Logo](https://imgur.com/uKiII8y.png)
 
 ## La Pioche Fourneau
 
