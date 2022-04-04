@@ -58,7 +58,7 @@ Si l'argument 'player' n'est pas donné alors elle la pioche est envoyé a celui
 
 ## License
 
-MIT
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://choosealicense.com/licenses/mit/)
 
 **Open Source**
 
