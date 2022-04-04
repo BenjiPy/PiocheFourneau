@@ -1,4 +1,7 @@
 # BenjiPy™️
+
+![Logo](https://imgur.com/BRlK2Dy.png)
+
 ## La Pioche Fourneau
 
 La Pioche Fourneau est une pioche directement implentée dans le jeu minecraft grace a l'intermédiaire de plugin.
