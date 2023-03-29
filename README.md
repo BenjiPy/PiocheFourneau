@@ -72,3 +72,5 @@ Si l'argument 'player' n'est pas donné alors elle la pioche est envoyé a celui
    [Java8]: <https://www.java.com/fr/download/help/java8.html#:~:text=Java%208%20est%20la%20dernière,d%27exécution%20des%20programmes%20Java.>
    [Graven - Développement]: <https://www.youtube.com/user/gravenilvectuto?app=desktop>
    [GitHub]: <https://github.com>
+
+<iframe src="https://discord.com/widget?id=1090069861360738407&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
